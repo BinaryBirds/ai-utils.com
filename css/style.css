@@ -44,7 +44,8 @@ p {
 	margin-bottom: 0.5rem;
 }
 p.tagline {
-	font-size: 1rem;
+	font-size: 2rem;
+	line-height: 2.25rem;
 }
 p.sidenote {
 	font-size: 0.75rem;
@@ -81,7 +82,7 @@ a.cta:hover {
 	background: #014692;
 }
 section {
-	padding: 4rem;
+	padding: 2rem;
 }
 img.screenshot {
 	width: 100%;
