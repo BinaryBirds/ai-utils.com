@@ -9,9 +9,6 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://ai-utils.com/updates/1.0.1.zip" length="2011437" type="application/octet-stream" sparkle:edSignature="dBxEtIw1oaVNx6Y6RF9mf82liVxS//sbbwE5wrdFgS2j87ZVLzxPBRvv/v8DLjh6J7OYNDyO1pKqbmMFw9VtBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://ai-utils.com/updates/AIUtils2-1.delta" sparkle:deltaFrom="1" length="14318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LRwWMdiimyaRJyO2saMwxkGhMiWmYDSrUZ9FxsMQ9PBcuTGCKAH7aDQcSm9Jmacb90iPFHa42vX6vk6J/SbqDA=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.0</title>
