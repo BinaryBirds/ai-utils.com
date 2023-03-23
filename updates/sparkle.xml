@@ -3,17 +3,6 @@
     <channel>
         <title>AIUtils</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 23 Mar 2023 14:02:57 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ai-utils.com/updates/1.0.1.zip" length="2011553" type="application/octet-stream" sparkle:edSignature="dU5Ym5QzLWSG+2Ay0EubWdaFjAbt5UQ5VevXpr9POlX4EO5ThiqhT5+k97V5bY8Q30UM6o//TXw6jWpAwQVOBQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://ai-utils.com/updates/AIUtils2-1.delta" sparkle:deltaFrom="1" length="15566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nVdhhsS4MPTOg4H3c4IcMps8eq8ZkpzO25cqpHvOQ8ypw5pt5cYi8+QGvzSCiUdkiqbvUgcBtHNF0XDLiegiCA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 21 Mar 2023 21:28:55 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
