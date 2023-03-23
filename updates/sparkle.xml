@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>AI Utils app changelog</title>
-    <link>https://ai-utils.com/updates/sparkle.xml</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-      
-      <item>
-        <title>Version 1.0.1</title>
-        <link>https://ai-utils.com/</link>
-        <sparkle:version>1.0.1</sparkle:version>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>This is just a test feature</li>
-            </ul>
-          ]]>
-        </description>
-        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-        <enclosure url="https://ai-utils.com/updates/1.0.1.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
-      </item>
-
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AIUtils</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 23 Mar 2023 14:02:57 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ai-utils.com/updates/1.0.1.zip" length="2011437" type="application/octet-stream" sparkle:edSignature="dBxEtIw1oaVNx6Y6RF9mf82liVxS//sbbwE5wrdFgS2j87ZVLzxPBRvv/v8DLjh6J7OYNDyO1pKqbmMFw9VtBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ai-utils.com/updates/AIUtils2-1.delta" sparkle:deltaFrom="1" length="14318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LRwWMdiimyaRJyO2saMwxkGhMiWmYDSrUZ9FxsMQ9PBcuTGCKAH7aDQcSm9Jmacb90iPFHa42vX6vk6J/SbqDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 21 Mar 2023 21:28:55 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ai-utils.com/updates/1.0.0.zip" length="2011455" type="application/octet-stream" sparkle:edSignature="7kBu5oft0Rs+DCkHy/VcXUGfb9vnak9kxukPRln2NB51kKhDxA3AP7vgElhG2r4Dl11W200xJN1zEccd97xtBg=="/>
+        </item>
+    </channel>
 </rss>
